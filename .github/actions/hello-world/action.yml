@@ -1,6 +1,9 @@
 name: "my hello action"
 
 description: "say hello with GitHub Actions"
+branding:
+  icon: 'award'
+  color: 'green'
 
 runs:
   using: "node12"
